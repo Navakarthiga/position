@@ -1,0 +1,42 @@
+html {
+    background-color: brown;
+    padding: 10px;
+    height: 3000px;
+}
+
+body {
+    background-color: yellow;
+    padding: 10px;
+    position: relative;
+    margin: 0;
+    top: 50px;
+   
+
+
+}
+
+header {
+    background-color: blueviolet;
+    position: fixed;
+    top: 0;
+    left: 20px;
+    z-index: 10;
+    
+}
+
+nav {
+    background-color: aqua;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+
+}
+
+footer {
+    background-color: antiquewhite;
+    margin: 10px;
+    position: fixed;
+    left: 20px;
+    top: 0;
+    z-index: 11;
+}
